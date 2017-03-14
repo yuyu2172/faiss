@@ -14,6 +14,7 @@ This is only tested on Ubuntu 14.04. Also, CUDA needs to be 8.0 and stored at th
 This command will automatically create makefile.inc and run installation of faiss.
 
 ```
+python setup.py install
 pip installl -e .
 ```
 
