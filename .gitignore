@@ -8,3 +8,4 @@
 *.so
 *.pyc
 *~
+faiss.egg-info/
